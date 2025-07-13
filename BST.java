@@ -1,6 +1,3 @@
-// Java Program to Implement
-// Binary Search Tree
-
 class Node {
     int key;
     Node left, right;
